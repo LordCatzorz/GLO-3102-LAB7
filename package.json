@@ -1,0 +1,24 @@
+{
+  "name": "glo-3102-lab7",
+  "version": "1.0.0",
+  "description": "Lab 7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LordCatzorz/GLO-3102-LAB7.git"
+  },
+  "author": "LordCatzorz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LordCatzorz/GLO-3102-LAB7/issues"
+  },
+  "homepage": "https://github.com/LordCatzorz/GLO-3102-LAB7#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "uuid": "^3.1.0"
+  }
+}
